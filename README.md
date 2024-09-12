@@ -3,7 +3,7 @@ Es handelt sich um eine Website-Application Training (Demo Website)
 
 
 ### Was habe ich von diesem Projekt gelernt:
-- wie man baut ein html code.
+- wie man baut ein website per html code.
 - wie man verwendet JavaScript ,um eine dynamische Website zu erstellen.
 - wie man customize website mit css.
 
